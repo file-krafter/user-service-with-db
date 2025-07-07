@@ -1,8 +1,7 @@
 package org.k8s.helm.app.entity;
 
-import org.springframework.data.annotation.Id;
-
 import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 
 @Entity
 public class User {
